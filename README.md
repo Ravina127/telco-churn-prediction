@@ -2,7 +2,7 @@
 
 Predicts which telecom customers are likely to leave (churn), explains the main drivers of churn, and estimates the business value of targeting high-risk customers. Includes a Streamlit app that scores a customer from their details.
 
-**Live app:** _add your Streamlit link here after deploying_
+**Live app:** [Open the Telco Churn Predictor](https://telco-churn-prediction-cfbr5kmcsq7tfkbvcjdgkl.streamlit.app/)
 
 ## Problem
 Winning a new customer costs far more than keeping an existing one. The goal is to find at-risk customers early, so the company can offer them the right help before they leave.
